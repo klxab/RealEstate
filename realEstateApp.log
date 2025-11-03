@@ -1,0 +1,40 @@
+Nov 03, 2025 5:43:11 PM RealEstateTest main
+INFO: main() called
+Nov 03, 2025 5:43:11 PM RealEstateTest testRealEstateCreation
+INFO: testRealEstateCreation() called
+Nov 03, 2025 5:43:11 PM RealEstateTest$RealEstate <init>
+INFO: RealEstate constructor called
+Nov 03, 2025 5:43:11 PM RealEstateTest$RealEstate toString
+INFO: toString() called
+Nov 03, 2025 5:43:11 PM RealEstateTest$RealEstate getTotalPrice
+INFO: getTotalPrice() called
+Nov 03, 2025 5:43:11 PM RealEstateTest$RealEstate averageSqmPerRoom
+INFO: averageSqmPerRoom() called
+Nov 03, 2025 5:43:11 PM RealEstateTest testPanelCreation
+INFO: testPanelCreation() called
+Nov 03, 2025 5:43:11 PM RealEstateTest$RealEstate <init>
+INFO: RealEstate constructor called
+Nov 03, 2025 5:43:11 PM RealEstateTest$Panel <init>
+INFO: Panel constructor called
+Nov 03, 2025 5:43:11 PM RealEstateTest$Panel toString
+INFO: Panel.toString() called
+Nov 03, 2025 5:43:11 PM RealEstateTest$Panel getTotalPrice
+INFO: Panel.getTotalPrice() called
+Nov 03, 2025 5:43:11 PM RealEstateTest$RealEstate averageSqmPerRoom
+INFO: averageSqmPerRoom() called
+Nov 03, 2025 5:43:11 PM RealEstateTest testPanelDiscount
+INFO: testPanelDiscount() called
+Nov 03, 2025 5:43:11 PM RealEstateTest$RealEstate <init>
+INFO: RealEstate constructor called
+Nov 03, 2025 5:43:11 PM RealEstateTest$Panel <init>
+INFO: Panel constructor called
+Nov 03, 2025 5:43:11 PM RealEstateTest$RealEstate makeDiscount
+INFO: makeDiscount(25) called
+Nov 03, 2025 5:43:11 PM RealEstateTest$Panel toString
+INFO: Panel.toString() called
+Nov 03, 2025 5:43:11 PM RealEstateTest$Panel getTotalPrice
+INFO: Panel.getTotalPrice() called
+Nov 03, 2025 5:43:11 PM RealEstateTest$RealEstate averageSqmPerRoom
+INFO: averageSqmPerRoom() called
+Nov 03, 2025 5:43:11 PM RealEstateTest$Panel roomPrice
+INFO: roomPrice() called
